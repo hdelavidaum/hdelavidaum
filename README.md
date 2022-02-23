@@ -1,12 +1,12 @@
 # ABOUT ME
 
+> ### 📄 [Curriculum (.pdf format)][linkcurriculum]
+
 ---
 
-### PDF Curriculum
-
 <div style="display: flex; justify-content: space-evenly">
-    <img src="https://github-readme-stats.vercel.app/api?username=hdelavidaum&count_private=true&show_icons=true&hide_border=true&title_color=334670&icon_color=334670&locale=pt-br" width="450" height="180em">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdelavidaum&layout=compact&hide_border=true&title_color=334670&icon_color=334670&locale=pt-br" height="180em">
+    <img src="https://github-readme-stats.vercel.app/api?username=hdelavidaum&count_private=true&show_icons=true&hide_border=true&title_color=334670&icon_color=334670&" width="450" height="180em" alt="description of Henrique's statistics at github" as="div">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdelavidaum&layout=compact&hide_border=true&title_color=334670&icon_color=334670&" height="180em" alt="programing languages most used by Henrique's at github" as="div">
 </div>
 
 ---
@@ -23,3 +23,4 @@
 [linkedin]: https://www.linkedin.com/in/henriquedelavidaum/
 [instagram]: https://www.instagram.com/h.delavi/
 [hackerrank]: https://www.hackerrank.com/hdelavidaum
+[linkcurriculum]: https://www
