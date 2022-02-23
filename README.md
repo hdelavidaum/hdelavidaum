@@ -1,6 +1,6 @@
 # ABOUT ME
 
-> ### 📄 [Curriculum (.pdf format)][linkcurriculum]
+> ### 📄 <a href="https://www" target="_blank" rel="noreferrer noopener">Curriculum (.pdf format)</a>
 
 ---
 
@@ -15,12 +15,17 @@
 
 # CONTACT & SOCIAL
 
-<a href="mailto:henrique.delavi.daum@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="padding-right:5px">][linkedin]
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="padding-right:5px">][instagram]
-[<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" style="padding-right:5px">][hackerrank]
-
-[linkedin]: https://www.linkedin.com/in/henriquedelavidaum/
-[instagram]: https://www.instagram.com/h.delavi/
-[hackerrank]: https://www.hackerrank.com/hdelavidaum
-[linkcurriculum]: https://www
+<a href="mailto:henrique.delavi.daum@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/henriquedelavidaum/" target="_blank" rel="noreferrer noopener">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="padding-right:5px">
+</a>
+</a>
+<a href="https://www.instagram.com/h.delavi/" target="_blank" rel="noreferrer noopener">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="padding-right:5px">
+</a>
+</a>
+<a href="https://www.hackerrank.com/hdelavidaum" target="_blank" rel="noreferrer noopener">
+<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" style="padding-right:5px">
+</a>
